@@ -44,10 +44,16 @@ Please note that this manual is still under development and does not have any de
   
 9. Disable your antivirus and through Mod Organizer select Nemesis and click on run. With Nemesis selected, click on "update engine," and after updating the engine, click on "launch nemesis." Once finished, make sure you have 1044 animations. If you have less than that, your installation may be incorrect.
   
-10. Open Loot through Mod Organizer and make sure all the plugins are showing there. If it is showing any plugins from the creative kit or if it is empty, it means your Loot is configured for your old Skyrim. You can easily configure the correct directory for my Skyrim folder by going to "File" in the top right corner of Loot, then "Settings." In settings, select "TES V: Skyrim special edition," and in "Install path," select the<------------------>
-  
-  Please note that this manual is still under development and does not have any design yet. Its function is solely to help you with the installation. Soon there will be a version with a design and more beautiful manual (as well as videos on the channel).
-  
+10. Open Loot through Mod Organizer and make sure all the plugins are showing there. If it is showing any plugins from the creative kit or if it is empty, it means your Loot is configured for your old Skyrim. You can easily configure the correct directory for my Skyrim folder by going to "File" in the top right corner of Loot, then "Settings." In settings, select "TES V: Skyrim special edition," and in "Install path," select the "Install path": select the root folder of my Skyrim.
+
+After that, make sure you've configured your game's resolution in the skyrimPrefs.ini file. You can easily do this through the Mod Organizer by clicking on the puzzle symbol with a red piece, selecting "ini editor," going to the second tab "skyrimPrefs.ini," pressing "Ctrl + F," and searching for "iSize H" (this is the vertical size of the image) and "iSize W" (this is the horizontal size of your image). For common full HD resolutions, use:
+iSize H=1080
+iSize W=1920
+
+Your Skyrim is now perfectly configured, and you can enjoy playing! Remember to always open it through SKSE while in Mod Organizer, and also remember to create a new game every time you use the Loot tool to install new mods and Nemesis to install animation mods.
+
+
+<------------------>
 
 # Extra
 
