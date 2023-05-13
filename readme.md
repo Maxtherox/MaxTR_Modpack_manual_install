@@ -64,5 +64,5 @@ If you have any questions, just message me on Discord at Maxtr#6560.
 Don't forget to subscribe to the channel and follow on social media.
 
 - [MaxTR - YouTube](https://www.youtube.com/@MaxTR)
-- [https://modpacks.com.br](https://modpacks.com.br/)
+- [Site oficial](https://modpacks.com.br/)
 - [Instagram](https://www.instagram.com/oimaxtr/)
