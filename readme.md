@@ -66,3 +66,4 @@ Don't forget to subscribe to the channel and follow on social media.
 - [MaxTR - YouTube](https://www.youtube.com/@MaxTR)
 - [Site oficial](https://modpacks.com.br/)
 - [Instagram](https://www.instagram.com/oimaxtr/)
+- [Patreon](https://www.patreon.com/user/membership?u=64099354)

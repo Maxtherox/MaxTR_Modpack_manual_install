@@ -51,3 +51,4 @@ Não se esqueça de se inscrever no canal e seguir nas redes sociais.
 - [MaxTR - YouTube](https://www.youtube.com/@MaxTR)
 - [https://modpacks.com.br](https://modpacks.com.br/)
 - [Instagram](https://www.instagram.com/oimaxtr/)
+- [Patreon](https://www.patreon.com/user/membership?u=64099354)
